@@ -19,7 +19,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 - 💬 Ask me about anything, I am eager to learn and help;
 - 📫 How to reach me: [@joshuabarua](https://www.linkedin.com/in/joshua-barua-82446a96/);
 
- <img align="right" alt="GIF" src="https://github.com/acancerouscake/acancerouscake/blob/master/dev.gif?raw=true" width="300" />
+ <img align="right" alt="GIF" src="https://github.com/acancerouscake/acancerouscake/blob/master/dev.gif?raw=true" width="400" />
 
 **Languages and Tools:**  
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
