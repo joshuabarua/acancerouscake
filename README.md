@@ -12,7 +12,9 @@
 
 <br />
 
-I'm [Joshua Barua](https://joshuabarua.wordpress.com/), a passionate Full Stack web developer and a freelance software engineer from the UK/Australia. I graduated with a degree in Information Technology from RMIT University. My passion as a developer begins with turning a simple idea into reality. Problem solving, designing elegant solutions and gaining knowledge through the act of "doing".
+I'm [Joshua Barua](https://joshuabarua.wordpress.com/), a passionate Full Stack web developer and a freelance software engineer from the UK/Australia, graduating with a degree in Information Technology from RMIT University. 
+
+My passion as a developer begins with turning a simple idea into reality. Problem solving, designing elegant solutions and gaining knowledge through the act of "doing".
 
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source. The ODIN project is a great start for those looking into becoming a web developer!
   
