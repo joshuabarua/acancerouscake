@@ -17,7 +17,7 @@ I'm [Joshua Barua](https://joshuabarua.wordpress.com/), a passionate Full Stack 
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source. The ODIN project is a great start.
 
 
-  <img align="right" alt="GIF" src="https://github.com/acancerouscake/acancerouscake/master/code.gif" width="400" />
+  <img align="right" alt="GIF" src="https://github.com/acancerouscake/acancerouscake/blob/master/code.gif?raw=true" width="400" />
   
 - 💬 Ask me about anything, I am eager to learn and help;
 - 📫 How to reach me: [@joshuabarua](https://www.linkedin.com/in/joshua-barua-82446a96/);
@@ -28,3 +28,6 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
