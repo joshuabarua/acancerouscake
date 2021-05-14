@@ -13,11 +13,8 @@
 <br />
 
 I'm [Joshua Barua](https://joshuabarua.wordpress.com/), a passionate Full Stack web developer and a freelance software engineer from the UK/Australia. I graduated with a degree in Information Technology from RMIT University. My passion as a developer begins with turning a simple idea into reality. Problem solving, designing elegant solutions and gaining knowledge through the act of "doing".
-
+ <img align="right" alt="GIF" src="https://github.com/acancerouscake/acancerouscake/blob/master/dev.gif?raw=true" width="300" />
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source. The ODIN project is a great start for those looking into becoming a web developer!
-
-
-  <img align="middle" alt="GIF" src="https://github.com/acancerouscake/acancerouscake/blob/master/dev.gif?raw=true" width="300" />
   
 - 💬 Ask me about anything, I am eager to learn and help;
 - 📫 How to reach me: [@joshuabarua](https://www.linkedin.com/in/joshua-barua-82446a96/);
