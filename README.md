@@ -4,9 +4,7 @@
 <a href="https://www.linkedin.com/in/joshua-barua-82446a96/">
   <img align="left" alt="Josh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/acancerouscake">
-  <img align="left" alt="Josh's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+
 
 <br />
 
