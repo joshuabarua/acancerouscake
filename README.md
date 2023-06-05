@@ -8,8 +8,6 @@
   <img align="left" alt="Josh's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=acancerouscake.acancerouscake)
-
 <br />
 
 I'm [Joshua Barua](https://joshuabarua.wordpress.com/), a passionate Full Stack web developer and a freelance software engineer from the UK/Australia, graduating with a degree in Information Technology from RMIT University. 
