@@ -2,12 +2,12 @@
 
 </a>
 <a href="https://www.linkedin.com/in/joshua-barua-82446a96/">
-  <img align="left" alt="Josh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Josh's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br />
-I'm [Joshua Barua](https://joshuabarua.wordpress.com/), a passionate Full Stack web developer and a freelance software engineer from the UK/Australia, graduating with a degree in Information Technology from RMIT University and an exchange year in Leeds studying computing and film. 
+I'm [Joshua Barua], a passionate Full Stack web developer and a freelance software engineer from the UK/Australia, graduating with a degree in Information Technology from RMIT University and an exchange year in Leeds studying computing and film. 
 
-My passion as a developer begins with turning a simple idea into reality. Problem solving, designing elegant solutions and gaining knowledge through the act of "doing".
+My passion as a developer begins with turning a simple idea into reality. Problem-solving, designing elegant solutions, and gaining knowledge through the act of "doing".
 
 I'm a fan of the open-source community and learned a lot through it (I love the collaboration and knowledge sharing). The ODIN project is a great start for those looking into becoming a web developer, though nowadays resources are plentiful :)
   
