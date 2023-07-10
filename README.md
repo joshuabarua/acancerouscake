@@ -1,7 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/joshua-barua-82446a96/">
-  <img align="left" alt="Josh's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Josh's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" >
 </a>
 <br />
 I'm [Joshua Barua], a passionate Full Stack web developer and a freelance software engineer from the UK/Australia, graduating with a degree in Information Technology from RMIT University and an exchange year in Leeds studying computing and film. 
